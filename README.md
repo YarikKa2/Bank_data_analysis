@@ -21,7 +21,7 @@ plotly.express ``` import plotly.express as px ``` <br>
 В терминале введите ``` pip install 'название_пакета_без_кавычек' ```<br>
 
 Для работы plotly требуется nbformat версия 4.2.0 или выше <br>
-Для установки nbformat введите в терминале ``` pip install nbformat ```
+Для установки nbformat введите в терминале ``` pip install nbformat ``` <br>
 Обязательно перезагрузите kernel после установки (либо перезагрузите Visual Studio Code)
 
 ## Команда проекта
@@ -29,5 +29,5 @@ plotly.express ``` import plotly.express as px ``` <br>
 - [Капущак Ярослав]
 
 ## Дополнительно
-Может помочь в случае возникновения проблем с nbformat (https://stackoverflow.com/questions/66557543/valueerror-mime-type-rendering-requires-nbformat-4-2-0-but-it-is-not-installed)
+Может помочь в случае возникновения проблем с nbformat: <br> (https://stackoverflow.com/questions/66557543/valueerror-mime-type-rendering-requires-nbformat-4-2-0-but-it-is-not-installed)
 
